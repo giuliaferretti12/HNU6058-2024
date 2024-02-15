@@ -52,11 +52,11 @@ Aucune condition préalable n'est requise pour participer à ce cours.
 ### 14 Février
 #### Séance 3
 - **9h30 - 10h30**
- - Introduction à CSS (Cascading Style Sheets) et à son fonctionnement « en cascade ».
- - L'importance de différencier le contenu du formatage grâce à HTML et CSS : Réutilisabilité -- Maintenabilité.
+  - Introduction à CSS (Cascading Style Sheets) et à son fonctionnement « en cascade ».
+  - L'importance de différencier le contenu du formatage grâce à HTML et CSS : Réutilisabilité -- Maintenabilité.
 - **10h30 - 11h30**
-- CSS : Syntaxe, sémantique et exercises de base.
-- Atelier pratique, introduction : mettre en forme son CV en ligne en utilisant HTML et CSS.
+  - CSS : Syntaxe, sémantique et exercises de base.
+  - Atelier pratique, introduction : mettre en forme son CV en ligne en utilisant HTML et CSS.
 
 #### Séance 4
 - **12h30-15h30**
