@@ -60,7 +60,7 @@ Non-exhaustive list of steps to make the template **your own**. Some of them are
 - [ ] If you changed the color palette - modify base color for RSS XSL stylesheet - see [`siteConfig.js`](./content/_data/siteConfig.js)
 - [ ] Enable automatic OpenGraph image generation - note that they only work for pages and posts
 - [ ] Add your own posts - use the existing placeholder posts as a reference
-- [ ] If you use post disclaimers at the beginning of your posts - consider using the built-in disclaimer feature - see [`06-10-sample-post-33-disclaimer.md`](./content/posts/2023/06-10-sample-post-33-disclaimer.md) or [`05-31-sample-post-32-linked-disclaimer.md`](content/posts/2023/02-21.md) for reference
+- [ ] If you use post disclaimers at the beginning of your posts - consider using the built-in disclaimer feature - see [`06-10-sample-post-33-disclaimer.md`](./content/posts/2023/06-10-sample-post-33-disclaimer.md) or [`05-31-sample-post-32-linked-disclaimer.md`](content/posts/2023/05-16.md) for reference
 - [ ] Add your own pages - use one of the existing placeholder pages as a reference
 - [ ] Add / remove meta pages in the footer - see [`siteConfig.js`](./content/_data/siteConfig.js)
 - [ ] Replace a favicon file (`favicon.svg`) with your own - only one file is needed, the remaining ones will be generated on build
